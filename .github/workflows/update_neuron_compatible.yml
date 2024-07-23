@@ -2,8 +2,6 @@ name: Update Neuron compatibility table
 
 on:
   push:
-    branches:
-      - 'rc/**'
     paths:
       - 'package.json'
 
